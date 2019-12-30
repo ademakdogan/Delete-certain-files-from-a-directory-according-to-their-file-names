@@ -2,6 +2,6 @@
 Delete files from directory if filename contains a certain word
 
 
-Run Remover.py\n
-First input - path
-Second input - word
+-Run Remover.py  
+-First input --> path  
+-Second input --> word  
